@@ -16,7 +16,7 @@ The source code is organized into sequential phases:
 * **`03_analysis_results.R`**: Analysis of simulation results.
 * **`04_plots.R`** & **`04_plots_poster.R`**: Scripts for visualization of simulation results.
 
-**Core Functions & Configuration:**
+**Core Functions:**
 * **`header.R`**: Script containing required packages.
 * **`function_covariances.R`**: Custom functions for estimating the covariance matrices with different methods.
 * **`function_mahalanobis_measures.R`**: Custom functions for calculation of mahalanobis-based distances.
