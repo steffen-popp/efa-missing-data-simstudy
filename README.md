@@ -1,9 +1,6 @@
 # Exploratory factor analysis with multiply imputed data under Missing at Random
 **Authors:** Steffen Popp, Clarissa Spiegler
 
-
-# Online Material
-
 ## 📁 Project Structure
 
 ### References and Documentation (HTML Reports)
