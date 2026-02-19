@@ -2,10 +2,10 @@
 **Authors:** Steffen Popp, Clarissa Spiegler
 
 ## 📁 Project Structure
-
+https://steffen-popp.github.io/efa-missing-data-simstudy/
 ### References and Documentation (HTML Reports)
-* **`doc_reproduction.html`**: A report with the reproduction results from the original study (Reproduced settings: MCAR small and MCAR large).
-* **`doc_confidence_intervals.html`**: Analysis and comparison of different confidence interval methods (Bootstrap vs. Fieller).
+* [**`Reproduction Results`**](https://steffen-popp.github.io/efa-missing-data-simstudy/reproduction/): A report with the reproduction results from the original study (Reproduced settings: MCAR small and MCAR large).
+* [**`Confidence Intervals Analysis`**](https://steffen-popp.github.io/efa-missing-data-simstudy/confidence_intervals/): Analysis and comparison of different confidence interval methods (Bootstrap vs. Fieller).
 * **`references.pdf`**: Contains the References.
 
 ### R Scripts (`/R`)
